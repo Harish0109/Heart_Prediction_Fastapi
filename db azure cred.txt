@@ -1,0 +1,6 @@
+Server Name : hgmysql.mysql.database.azure.com
+db_username', 'hg010@hgmysql'
+db_password', pmiAug@123
+server admin login name: hg010@hgmysql
+
+165.225.120.113
