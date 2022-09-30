@@ -193,4 +193,4 @@ def predict_HD(hd: heartdisease, db: Session = Depends(get_db)):
 # 5. Run the API with uvicorn
 #    Will run on http://127.0.0.1:7000
 if __name__ == '__main__':
-    uvicorn.run(app, host='127.0.0.1', port=7000)
+    uvicorn.run(app, host='127.0.0.1', port=8090)
